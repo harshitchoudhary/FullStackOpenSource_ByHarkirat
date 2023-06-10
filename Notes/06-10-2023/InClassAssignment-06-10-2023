@@ -1,0 +1,40 @@
+// // - sum 1-100
+// // - fibonacci
+// // - pattern
+
+// function sum(a,b){
+//     let sum = 0;
+//     for(let i = a;i<=b; i++ ){
+//         sum+=i;
+//     }
+//     return sum;
+// }
+
+// function fib(n){
+//     if(n <2 ) return 1;
+//     return fib(n-2)+fib(n-1) 
+// }
+// console.log(fib(4));
+// function pattern(){
+//     for(let i = 1; i<10; i++){
+//         let str = "";
+//         for(let j = 0; j<i; j++){
+//             str+='*';
+//         }
+//         console.log(str);
+//     }
+// }
+// pattern();
+// function sum(a,b){return a+b};
+// function minus(a,b){return a-b};
+// function divide(a,b){return a/b};
+// function mul(a,b){return a*b};
+
+// function doAirth(a,b, job){
+//     return job(a,b);
+// }
+
+// console.log(doAirth(8,4,sum));
+// console.log(doAirth(8,4,minus));
+// console.log(doAirth(8,4,divide));
+// console.log(doAirth(8,4,mul));

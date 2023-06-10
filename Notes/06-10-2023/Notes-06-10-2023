@@ -1,0 +1,17 @@
+- JavaScript history
+- Nodejs: to run on backend machine node was developed for javascript
+- 
+- Encapsulate lines of code in function and call that funciton
+- DRY: don't repeat yourself
+- 
+- We can pass a function inside a function
+- 
+- JavaScript is single threaded
+- using only one core
+- other lang lke JAVA is multi threaded meaning it can use multiple core to excute in parallel
+- 
+- interpreted lang vs compiled
+- interpreter will go line by line
+- compiler will compile eveything and then show output
+- 
+-
