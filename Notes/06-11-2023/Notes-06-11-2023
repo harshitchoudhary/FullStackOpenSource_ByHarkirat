@@ -1,0 +1,24 @@
+Content
+- Asynchronous JS
+- Callbacks
+- Promises
+- Arrow function
+
+- Asynchronous JS
+- we need this to make the JS work in parallel
+- use multi core which will improve the speed of JS working
+
+- JavaScript working single threaded analogy with working of human brain
+
+- setTimeout(printToScreen, 1*1000);
+- function printToScreen(){
+-     console.log("Hello world")
+- }
+ 
+- "loupe" a good website to showcase call stack, event loop, callback queue
+- Callback: funciton inside a function is called a call back but it is suppose to call back a function from other function
+
+- Callback Hell: When chaining happens i.e. setTimeout inside other setTimeout it creates callBack hell that was solved by introducing promises
+
+- Promises
+- 
