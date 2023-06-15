@@ -28,21 +28,6 @@ class Todo {
         this.result = [];
     }
 }
-// let todoList = new Todo;
-// // todoList.add('Task 1');
-// // todoList.add('Task 2');
-// // todoList.add('Task 3');
-// todoList.add('Task 1');
-// todoList.add('Task 2');
-// todoList.add('Task 3');
-
-// todoList.update(1, 'Updated Task 2');
-// console.log(todoList.get(3));
-    // todoList.get(1));
-
-
-// todoList.update(3, 'Invalid Task');
-// console.log(todoList.getAll());
 
 
 module.exports = Todo;
